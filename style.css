@@ -28,13 +28,25 @@ p.bg-primary {
   font-size: 200%;
 }
 
-#winner-box {
+.winner-box {
     margin-left: 10px;
     margin-right: 10px;
+}
+
+#achievement-name {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: centre;
+    width:200px;
+}
+.winner-name {
+  display: none;
 }
 
 #winner-name {
     padding-top: 1em;
     padding-bottom: 1em;
-    text-align: center;
+    text-align: centre;
+    width:200px;
 }
+
